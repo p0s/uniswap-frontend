@@ -167,6 +167,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0x81eeD7F1EcbD7FA9978fcc7584296Fb0C215Dc5C'
     },
+    '0x3212b29e33587a00fb1c83346f5dbfa69a458923': {
+      [NAME]: 'The Tokenized Bitcoin',
+      [SYMBOL]: 'imBTC',
+      [DECIMALS]: 8,
+      [EXCHANGE_ADDRESS]: '0xffcf45b540e6c9f094ae656d2e34ad11cdfdb187'
+    },
     '0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69': {
       [NAME]: 'IoTeX Network',
       [SYMBOL]: 'IOTX',
